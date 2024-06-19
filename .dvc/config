@@ -1,0 +1,4 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = C:/Users/z004unpt/AppData/Local/Temp/dvcstore
